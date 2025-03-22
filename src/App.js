@@ -9,7 +9,7 @@ import {
 } from 'react-router-dom';
 // All pages
 import Home from './pages/Home';
-import JoinUs from './pages/JoinUs';
+import JoinUs from './pages/Joinus';
 import Login from './pages/Login';
 import { useDocTitle } from './components/CustomHook';
 import ScrollToTop from './components/ScrollToTop';
